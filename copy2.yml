@@ -6,6 +6,6 @@
   tasks:
     - name: testing
       debug:
-        msg: "the message was {{ patching_day1 }} {{ patching_group1 }} {{ server1 }} "
+        msg: "the message was {{ Configuration_Item }} {{ Release_date }} "
 ...
   
